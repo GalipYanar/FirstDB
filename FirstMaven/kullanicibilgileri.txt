@@ -1,0 +1,4 @@
+isim : burak
+soyisim : alagöz
+mail : brkalgz@hotmail.com
+yaş : 28
